@@ -18,8 +18,7 @@
 
 ### IT University Of Copenhagen
 
-- Teaching Assistant (TA) in Advanced Programming
-  - `https://mit.itu.dk/ucs/cb_www/coursetrap.sml?print_friendly_p=t&mode=search&course_id=1793517`
+- Teaching Assistant (TA) in Advanced Programming ([Link](https://mit.itu.dk/ucs/cb_www/coursetrap.sml?print_friendly_p=t&mode=search&course_id=1793517))
 
 ## Education
 
