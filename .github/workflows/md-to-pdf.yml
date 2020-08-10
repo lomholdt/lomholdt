@@ -11,16 +11,10 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
 
-    # Runs a single command using the runners shell
-    - name: Run a one-line script
-      run: echo Hello, world!
-
-    - name: Create PDF
-      uses: mkrakowitzer/actions-makepdfs@1.1
+    - uses: docker://pandoc/latex:2.9
       with:
-        # Location of markdown files in github repository
-        markdown_dir: $GITHUB_WORKSPACE
-        # Location to output PDF files to
-        # output_dir: $GITHUB_WORKSPACE/tmp
-
-
+        args: --output=output/result.pdf cv.md
+    - uses: actions/upload-artifact@master
+      with:
+        name: output
+        path: output
