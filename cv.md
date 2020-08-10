@@ -24,7 +24,7 @@
 
 ### IT University Of Copenhagen
 
-- Master of Science (MSc), Software Development and Technolog (2014 - 2016)
+- Master of Science (MSc), Software Development and Technology (2014 - 2016)
 
 ### Stanford University
 
