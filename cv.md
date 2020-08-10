@@ -38,3 +38,17 @@
 ### Favrskov Gymnasium
 
 - High School Degree (2004 - 2007)
+
+## Technologies
+
+- C#
+- .NET Core
+- xUnit
+- Docker
+- Openshift (Kubernetes)
+- Azure DevOps
+- Git
+- MSSQL
+- Vue
+- Javascript
+- NCrunch
