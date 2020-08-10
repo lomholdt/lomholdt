@@ -1,11 +1,5 @@
 # CV
 
-## About
-
-Jonas Lomholdt
-Grønnemarksvej 2A
-Rødovre
-
 ## Experience
 
 ### Danske Bank
