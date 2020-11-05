@@ -40,4 +40,4 @@
 
 ## Technologies
 
-C#, .NET Core, xUnit, Docker, Openshift (Kubernetes), Azure DevOps, Git, MSSQL, Vue, Javascript, NCrunch
+C#, .NET Core, xUnit, Docker, Kubernetes (Openshift), Azure DevOps (CI/CD), Git, MSSQL, Vue, Javascript, NCrunch
