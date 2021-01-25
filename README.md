@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/lomholdt/count.svg" />
-</p>
-
 <!--
 **lomholdt/lomholdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
